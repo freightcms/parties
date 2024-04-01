@@ -25,6 +25,10 @@ public class Person : Party
     /// Tax Identification Number of the Company.
     /// </summary>
     public string? TaxId { get; set; }
+    /// <summary>
+    /// Rollup Identifier for the Person that can be used to group multiple persons.
+    /// </summary>
+    public string? RollupId { get; set; }
     public required AddressModel PhysicalAddress { get; set; }
     public required AddressModel MailingAddress { get; set; }
     public required Contact ContactInfo { get; set; }
@@ -36,6 +40,11 @@ public class Company : Party
     /// Tax Identification Number of the Company.
     /// </summary>
     public string? TaxId { get; set; }
+
+    /// <summary>
+    /// Rollup Identifier for the Company. e.g. Parent Company Id.
+    /// </summary>
+    public string? RollupId { get; set; }
 
     /// <summary>
     /// Doing Business As Name of the Company.
