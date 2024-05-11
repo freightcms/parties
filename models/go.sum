@@ -1,6 +1,3 @@
-github.com/freightcms/common v1.0.0 h1:y5mBEzT0tSYFwP9F43smdRwKh4rTMVetl1NVf5NKrEY=
-github.com/freightcms/common/models v0.0.0-20240403025859-0ce4b89073e5 h1:p1GQ/nm2GOqS0qhwJbXXj5ignQQePWAUFJG7kMSRQJQ=
-github.com/freightcms/common/models v0.0.0-20240403025859-0ce4b89073e5/go.mod h1:EgclrPIgkbQ6ZpraNVO2h3mU7S9IniQB+Wb2gT3a508=
 github.com/freightcms/common/models v1.1.0 h1:NbujQ45NUDck6tR3ZC79JFz5xclWGkX086FNyRbTy/Y=
 github.com/freightcms/common/models v1.1.0/go.mod h1:EgclrPIgkbQ6ZpraNVO2h3mU7S9IniQB+Wb2gT3a508=
 github.com/freightcms/locations/models v1.0.0 h1:mD0qUeaPayifSsFWK8YA33d43F26HDzNDNTEU6hQ8eg=
